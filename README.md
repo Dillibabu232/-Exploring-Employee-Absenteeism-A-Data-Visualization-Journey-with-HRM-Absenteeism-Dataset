@@ -1,5 +1,6 @@
-# -Exploring-Employee-Absenteeism-A-Data-Visualization-Journey-with-HRM-Absenteeism-Dataset
-Abstract:
+# Exploring-Employee-Absenteeism-A-Data-Visualization-Journey-with-HRM-Absenteeism-Dataset
+# Abstract:
+
 In today's dynamic and competitive business environment, understanding and managing employee absenteeism is crucial for organizations aiming to maintain productivity and employee well-being. This project, "Exploring Employee Absenteeism: A Data Visualization Journey with HRM Absenteeism Dataset," delves into the world of workforce absenteeism through the lens of data visualization.
 
 The Human Resource Management (HRM) Absenteeism dataset serves as the foundation for our exploration. This rich dataset contains a trove of information about employee absenteeism, including reasons for absence, demographic data, and various other attributes. Through the application of advanced data visualization techniques, we aim to uncover valuable insights and patterns hidden within this data.
@@ -8,7 +9,8 @@ Our project will employ a variety of data visualization tools and methods, inclu
 
 By the end of this data visualization journey, we hope to provide HR professionals, managers, and decision-makers with actionable insights to better understand and manage employee absenteeism. The project not only demonstrates the power of data visualization in deciphering complex HRM data but also emphasizes its practical utility in improving organizational effectiveness and employee satisfaction.
 
-Objectives:
+# Objectives:
+
 Data Exploration: Conduct a comprehensive exploration of the HRM Absenteeism dataset to understand its structure, contents, and potential challenges.
 
 Pattern Identification: Identify patterns and trends in employee absenteeism, including seasonal variations, demographic influences, and correlations with reasons for absence.
@@ -28,27 +30,3 @@ Documentation: Create thorough documentation of data preprocessing, visualizatio
 Knowledge Dissemination: Share findings and insights through reports, presentations, or publications to contribute valuable knowledge to the field of HR management and data analytics.
 
 Continuous Improvement: Encourage a culture of data-driven decision-making by emphasizing the value of data visualization and its role in ongoing HRM practices and strategies.
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-HTML
-58.1%
- 
-Jupyter Notebook
-41.9%
-Footer
